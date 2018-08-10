@@ -1,0 +1,71 @@
+.brand_color {
+    font-size: 3em;
+}
+.navbar {
+    background-color: #add8e6;
+}
+nav a {
+    color: black !important;
+    font-size: 2.4em;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.drop_down_color{
+    font-size: 0.8em;
+}
+
+#home {
+    background: white;
+}
+
+body {
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Hind Vadodara', sans-serif;   
+}
+
+.jumbotron {
+    background: #e8f7f0;
+}
+#image {
+    margin: 10px;
+  }
+.img-border {
+    margin: 5px;
+}
+
+p {
+    margin: 10px;
+}
+
+.footer-p {
+    margin: 20px;
+    padding: 10px;
+}
+
+.column-border {
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    background: lightblue;
+}
+.fa {
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.25;
+}
+
+.right{
+    background: white;
+    text-align: right;
+}
